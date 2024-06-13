@@ -17,8 +17,6 @@ Our bot processes messages in the following ways:
 
 ### 2.1 Current Features
 - **Reacting to Messages:** When you send a message that starts with "WFL" or "W/F/L", our bot will automatically react with the specified emojis. This processing is done in real-time, and the messages are not stored or logged.
-
-### 2.2 Planned Features
 - **Message Blacklist System:** This feature will allow us to block specific words or phrases. Details on how messages are processed and handled will be updated in this policy once the feature is implemented.
 
 ## 3. Data Storage and Security
