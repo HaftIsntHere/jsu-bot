@@ -50,7 +50,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## 7. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us through our Discord server or at [Your Contact Information].
+If you have any questions about this Privacy Policy, please contact us through our Discord server or at HafTheDev@gmail.com.
 
 Thank you for using our bot!
 
