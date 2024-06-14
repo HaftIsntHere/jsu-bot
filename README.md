@@ -9,8 +9,6 @@ Welcome to our Discord bot's Privacy Policy. This document explains how we colle
 ### 1.1 Messages
 Our bot processes messages in the following ways:
 - **Trigger Words:** When a message starts with "WFL" or "W/F/L", our bot reacts with the emojis: 🇼, 🇫, and 🇱.
-
-### 1.2 Planned Features
 - **Message Blacklist System:** In the future, we will add a feature to blacklist specific messages. This feature will allow us to identify and block certain words or phrases.
 
 ## 2. How We Use Your Information
@@ -48,7 +46,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## 7. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us through our Discord server or at HafTheDev@gmail.com.
+If you have any questions about this Privacy Policy, please contact us through our Discord server or at HaftTheDev@gmail.com.
 
 Thank you for using our bot!
 
